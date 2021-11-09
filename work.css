@@ -83,64 +83,37 @@ top: 418px;
 .el4{
     top: 213px
 }
-.first{
+.text{
     position: absolute;
-width: 185px;
-height: 48px;
-left: 110px;
-top: 193px;
-
+    height: 48px;
+    left: 110px;
 font-family: Lato;
 font-style: normal;
 font-weight: bold;
 font-size: 20px;
 color: #FFFFFF;
 }
+.first{
+    
+width: 185px;
+top: 193px;
+
+}
 .second{
-    position: absolute;
 width: 253px;
-height: 48px;
-right: 20%;
 top: 327px;
 
-font-family: Lato;
-font-style: normal;
-font-weight: bold;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
 
 }
 .third{
-    position: absolute;
+    
 width: 248px;
-height: 48px;
-right: 20%;
 top: 435px;
-
-font-family: Lato;
-font-style: normal;
-font-weight: bold;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
 }
 .fourth{
-    position: absolute;
     width: 185px;
-    height: 48px;
-    right: 27%;
     top: 519px;
 
-    font-family: Lato;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 20px;
-    line-height: 24px;
-    
-    color: #FFFFFF;
 }
 .zagolovok{
     position: absolute;
