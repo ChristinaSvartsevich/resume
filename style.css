@@ -1,0 +1,93 @@
+.container {
+    position: relative;
+    height: 650px;
+    width: 380px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    left: 40%;
+    top: 10%;
+    border:  black solid 1px; 
+}
+.menu{
+    position: relative;
+    width: 35px;
+    height: 4.73px;
+  
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+.rec1{
+   position: absolute;
+    left: 34px;
+    top: 32px;
+    
+}
+.rec2{
+    position: absolute;
+    left: 34px;
+    top: 42.64px;
+}
+.rec3{
+    position: absolute;
+    left: 34px;
+    top: 53.27px;
+}
+
+
+.elipse{
+    position: absolute;
+width: 95px;
+height: 105px;
+border-bottom-right-radius:50px ;
+border-top-left-radius: 25px;
+
+background: #1D2CF3;
+}
+.info{
+    position: absolute;
+width: 296px;
+height: 61px;
+left: 61px;
+top: 379px;
+
+font-family: Lucida Sans Typewriter;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 41px;
+
+color: #1D2CF3;
+}
+.fon{
+    position: absolute;
+width: 196.07px;
+height: 200px;
+left: 92px;
+top: 108px;
+border-radius: 100%;
+background: #1D2CF3;
+}
+.image{
+    position: absolute;
+width: 161.75px;
+height: 187px;
+left: 35.33px;
+
+background: url(face.png);
+}
+.infodown{
+    position: absolute;
+width: 208px;
+height: 48px;
+left: 25px;
+top: 78px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}

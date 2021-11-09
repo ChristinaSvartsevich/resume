@@ -1,0 +1,73 @@
+.container {
+    position: relative;
+    height: 650px;
+    width: 380px;
+    background-color: black;
+    border-radius: 25px;
+    left: 40%;
+    top: 10%;
+}
+.close{
+    position: absolute;
+width: 35px;
+height: 4.73px;
+left: 29px;
+top: 58.51px;
+
+background: #FFFFFF;
+border-radius: 4px;
+transform: rotate(-46.78deg);
+}
+.menu{
+    position: absolute;
+    width: 35px;
+height: 4.73px;
+left: 29px;
+top: 58.51px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    transform: rotate(-135.37deg);
+
+}
+
+.elipse{
+    position: absolute;
+width: 95px;
+height: 105px;
+border-bottom-right-radius:50px ;
+border-top-left-radius: 25px;
+
+background: #1D2CF3;
+}
+.info{
+    position: absolute;
+width: 299px;
+height: 240px;
+left: 42px;
+top: 349px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: blanchedalmond;
+}
+.fon{
+    position: absolute;
+width: 196.07px;
+height: 200px;
+left: 92px;
+top: 108px;
+border-radius: 100%;
+background: #FFFFFF;
+}
+.image{
+    position: absolute;
+width: 161.75px;
+height: 187px;
+left: 35.33px;
+
+background: url(face.png);
+}

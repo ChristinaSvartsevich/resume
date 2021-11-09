@@ -1,0 +1,95 @@
+.container {
+    position: relative;
+    height: 650px;
+    width: 380px;
+    background-color: black;
+    border-radius: 25px;
+    left: 40%;
+    top: 10%;
+}
+.close{
+    position: absolute;
+width: 35px;
+height: 4.73px;
+left: 29px;
+top: 58.51px;
+
+background: #FFFFFF;
+border-radius: 4px;
+transform: rotate(-46.78deg);
+}
+.menu{
+    position: absolute;
+    width: 35px;
+height: 4.73px;
+left: 29px;
+top: 58.51px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    transform: rotate(-135.37deg);
+
+}
+
+.elipse{
+    position: absolute;
+width: 95px;
+height: 105px;
+border-bottom-right-radius:50px ;
+border-top-left-radius: 25px;
+
+background: #1D2CF3;
+}
+.hyper{
+    position: absolute;
+    width: 132px;
+    height: 61px;
+   
+    
+    font-family: Lucida Sans Typewriter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    
+    color: #FFFFFF;
+}
+
+.work{
+    left: 48px;
+    top: 184px;
+}
+
+.projects{
+    left: 48px;
+    top: 287px;
+
+}
+
+.skills{
+    left: 48px;
+    top: 391px;
+}
+
+.contact{
+    left: 48px;
+    top: 495px;
+}
+.el1{
+    position: absolute;
+width: 98px;
+height: 101px;
+left: 276px;
+top: 433px;
+border-radius: 100%;
+
+background: #FFFFFF;
+}
+.sqr{
+    position: absolute;
+width: 113px;
+height: 100px;
+left: 202px;
+top: 486px;
+
+background: #1D2CF3;
+}

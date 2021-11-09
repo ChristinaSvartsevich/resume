@@ -1,0 +1,161 @@
+.container {
+    position: relative;
+    height: 650px;
+    width: 380px;
+    background-color: black;
+    border-radius: 25px;
+    left: 40%;
+    top: 10%;
+}
+
+
+.elipse{
+    position: absolute;
+width: 95px;
+height: 105px;
+border-bottom-right-radius:50px ;
+border-top-left-radius: 25px;
+
+background: #1D2CF3;
+}
+
+.str1{
+    position: absolute;
+    width: 4px;
+    height: 21px;
+    left: 28.56px;
+    top: 45.4px;
+    
+    background: #FFFFFF;
+    border-radius: 2px;
+    transform: rotate(129.66deg);
+
+}
+.str2{
+    position: absolute;
+width: 4px;
+height: 21px;
+left: 26.56px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 2px;
+transform: rotate(36.72deg);
+}
+.str3{
+    position: absolute;
+width: 35px;
+height: 4.73px;
+left: 20.37px;
+top: 46.05px;
+
+background: #FFFFFF;
+border-radius: 4px;
+transform: rotate(179.67deg);
+}
+.line{
+    position: absolute;
+width: 492.01px;
+height: 0px;
+right: 17%;
+bottom: 30%;
+border: 3px solid #FFFFFF;
+transform: rotate(90.06deg);
+background-color: #FFFFFF;
+}
+.el{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+background: #1D2CF3;
+left: 47px;
+}
+.el1{
+top: 513px;
+}
+.el2{
+top: 418px;
+}
+.el3{
+    top: 313px
+}
+.el4{
+    top: 213px
+}
+.first{
+    position: absolute;
+    width: 127px;
+    height: 144px;
+    left: 222px;
+    top: 277px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.second{
+    position: absolute;
+    width: 268px;
+    height: 61px;
+    right: 27%;
+    top: 247px;
+    
+    font-family: Lucida Sans Typewriter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+
+}
+.third{
+    position: absolute;
+    width: 268px;
+    height: 61px;
+    right: 23%;
+    top: 444px;
+    
+    font-family: Lucida Sans Typewriter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+.fourth{
+    position: absolute;
+    width: 116px;
+    height: 144px;
+    right: 23%;
+    top: 464px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.zagolovok{
+    position: absolute;
+width: 268px;
+height: 61px;
+right: 15%;
+top: 100px;
+
+font-family: Lucida Sans Typewriter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
